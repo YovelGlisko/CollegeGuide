@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CollegeGuide</string>
+    <string-array name="pulldown_options">
+        <item>Restaurants</item>
+        <item>Bakeries</item>
+        <item>Museums</item>
+        <item>Attractions</item>
+        <item>Subway Map</item>
+    </string-array>
+</resources>
